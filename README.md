@@ -25,7 +25,6 @@ Process Explorer is an in‑development tool for monitoring and managing Windows
 * Native C++ backend for low‑level system integration
 * Experimental NTAPI branch for advanced diagnostics (unstable)
 
-Select the appropriate platform (x64) and configuration (Debug/Release) and run from Visual Studio.
 
 ## Pages
 
